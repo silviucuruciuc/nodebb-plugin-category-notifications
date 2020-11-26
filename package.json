@@ -1,11 +1,11 @@
 {
-  "name": "nodebb-plugin-category-notifications",
-  "version": "3.0.1",
-  "description": "Category notifications",
+  "name": "nodebb-plugin-rmt-notifications",
+  "version": "1.0.1",
+  "description": "Fork of Category notifications ",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NodeBB/nodebb-plugin-category-notifications"
+    "url": "https://github.com/silviucuruciuc/nodebb-plugin-category-notifications"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
