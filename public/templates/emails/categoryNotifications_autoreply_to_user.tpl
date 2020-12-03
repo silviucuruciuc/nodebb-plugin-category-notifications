@@ -6,8 +6,6 @@
 
 <blockquote>{content}</blockquote>
 
-<a href="{url}/topic/{topicSlug}">Click here to view the topic</a>
-
 <p>
 	Thanks,<br />
 	<strong>{site_title}</strong>
