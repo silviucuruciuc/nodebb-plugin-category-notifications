@@ -6,7 +6,7 @@ $(document).ready(function() {
 
 	$(window).on('action:ajaxify.end', function() {
 
-		if (app.template === 'category' && app.user.uid) {
+		if (app.template === 'category' && app.user.uid && app.user.uid === 1) {
 			var unsubscribeHtml = '<button type="button" class="btn btn-default btn-warning unsubscribe"><i class="fa fa-pencil"></i> [[categorynotifications:unsubscribe]]</button>';
 			var subscribeHtml = '<button type="button" class="btn btn-default btn-success subscribe"><i class="fa fa-pencil"></i> [[categorynotifications:subscribe]]</button>';
 
