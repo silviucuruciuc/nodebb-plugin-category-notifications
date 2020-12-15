@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-rmt-notifications",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "Fork of Category notifications ",
   "main": "index.js",
   "repository": {
